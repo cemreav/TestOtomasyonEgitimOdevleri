@@ -15,6 +15,6 @@ public class EnumOrnek {
 
         //ENUM'dam bir sabit değeri elde etme
         Gunler secilenGun = Gunler.valueOf("CUMA");
-        System.out.println("Seçilen gün "+ secilenGun);
+        System.out.println("Seçilen gün cuma mıdır ? "+ secilenGun+ "'dır");
     }
 }
