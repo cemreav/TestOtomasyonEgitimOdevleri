@@ -36,7 +36,7 @@ public class VeriSaklayici {
         }
 
         public void yazdirMarka(){
-            System.out.println("Markadır: "+this.marka);
+            System.out.println("Marka: "+this.marka);
         }
     }
 
@@ -50,6 +50,5 @@ public class VeriSaklayici {
         }
     }
 }
-
 
 
